@@ -1,0 +1,7 @@
+Nescessario sqlite 3 instalado na maquina 
+
+depois de clonar ou baixar o repositorio
+
+copiar para ~/.tunel_ssh
+
+e colocar o mesmo no $PATH do seu shel preferido.
